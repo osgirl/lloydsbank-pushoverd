@@ -3,6 +3,7 @@ with your account balance and available funds to your mobile device whenever it
 detects a new transaction and/or at specified intervals.
 
 ### Requirements ###
+- Python 2.7
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
 
 ### Credits ###
