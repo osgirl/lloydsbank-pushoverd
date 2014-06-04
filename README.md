@@ -4,3 +4,7 @@ detects a new transaction and/or at specified intervals.
 
 ### Requirements ###
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
+
+### Credits ###
+Contains parts of [lloyds-scrapper](https://github.com/izidormatusov/lloyds-scrapper) by Izidor Matušov.
+Copyright (c) 2013 Izidor Matušov. MIT license.
