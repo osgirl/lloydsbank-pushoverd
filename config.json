@@ -2,8 +2,8 @@
   "userid": "1131179799107",
   "password": "billyherrington123",
   "memorable_information": "yugamine3n467",
-  "account_names": [
-    "Student",
-    "Savings"
-  ]
+  "pushover": {
+    "token": "APP_TOKEN",
+    "user": "USER_KEY"
+  }
 }
